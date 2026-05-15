@@ -1,0 +1,104 @@
+japanese,romaji,english,jlpt,pos,example_jp,example_en,notes
+影響,eikyou,Influence / impact,N3,noun,景気の影響を受けました。,We were affected by the economy.,Common business
+状況,joukyou,Situation / condition,N3,noun,状況を説明してください。,Please explain the situation.,Formal
+環境,kankyou,Environment,N3,noun,環境問題は深刻です。,Environmental issues are serious.,Common topic
+社会,shakai,Society,N3,noun,社会のためになります。,It's for the good of society.,Common
+政治,seiji,Politics,N3,noun,政治の話は避けます。,I avoid political topics.,Common
+経済,keizai,Economy,N3,noun,日本経済が回復しました。,The Japanese economy recovered.,Common business
+文化,bunka,Culture,N3,noun,日本文化に興味があります。,I'm interested in Japanese culture.,Common
+歴史,rekishi,History,N3,noun,日本の歴史を勉強します。,I study Japanese history.,Common
+科学,kagaku,Science,N3,noun,科学技術が進歩しています。,Science and technology are advancing.,Field
+技術,gijutsu,Technology / skill,N3,noun,新しい技術を開発しました。,We developed new technology.,Field
+情報,jouhou,Information,N3,noun,情報を集めます。,I gather information.,Common
+資料,shiryou,Material / documents,N3,noun,会議の資料を準備します。,I prepare meeting materials.,Business
+書類,shorui,Documents / papers,N3,noun,書類を整理しました。,I organized the documents.,Business
+契約,keiyaku,Contract,N3,noun,契約を結びます。,We make a contract.,Business
+取引,torihiki,Business deal / transaction,N3,noun,取引が成立しました。,The deal was concluded.,Business
+会議,kaigi,Meeting,N3,noun,会議は何時からですか。,What time is the meeting?,Common
+発表,happyou,Announcement / presentation,N3,noun,結果を発表します。,I'll announce the results.,Common
+報告,houkoku,Report,N3,noun,上司に報告しました。,I reported to my boss.,Business
+相談,soudan,Consultation / discussion,N3,noun,相談したいことがあります。,I have something to consult about.,Common
+許可,kyoka,Permission,N3,noun,許可をもらいました。,I got permission.,Common
+禁止,kinshi,Prohibition,N3,noun,駐車禁止です。,Parking is prohibited.,Sign
+規則,kisoku,Rule / regulation,N3,noun,規則を守ってください。,Please follow the rules.,Common
+法律,houritsu,Law,N3,noun,法律で禁止されています。,It's prohibited by law.,Common
+権利,kenri,Right (legal),N3,noun,これは私の権利です。,This is my right.,Common
+責任,sekinin,Responsibility,N3,noun,責任を取ります。,I'll take responsibility.,Common
+義務,gimu,Duty / obligation,N3,noun,それは義務です。,That is a duty.,Common
+習慣,shuukan,Habit / custom,N3,noun,朝食を食べる習慣があります。,I have the habit of eating breakfast.,Common
+伝統,dentou,Tradition,N3,noun,伝統文化を大切にします。,We value traditional culture.,Common
+祭り,matsuri,Festival,N3,noun,夏祭りに行きました。,I went to the summer festival.,Cultural
+お祝い,oiwai,Celebration,N3,noun,卒業のお祝いをしました。,We celebrated graduation.,Cultural
+祈る,inoru,To pray / wish,N3,verb,健康を祈ります。,I pray for good health.,Religious / wishful
+願う,negau,To wish / desire,N3,verb,成功を願っています。,I'm wishing for success.,Common
+信じる,shinjiru,To believe,N3,verb,あなたを信じます。,I believe in you.,Trust
+疑う,utagau,To doubt,N3,verb,彼の話を疑います。,I doubt his story.,Skeptical
+助ける,tasukeru,To help / save,N3,verb,友達を助けました。,I helped my friend.,Common
+守る,mamoru,To protect / keep,N3,verb,約束を守ります。,I keep my promise.,Common
+育てる,sodateru,To raise / nurture,N3,verb,子供を育てています。,I'm raising children.,Family
+教える,oshieru,To teach,N4,verb,日本語を教えてください。,Please teach me Japanese.,Common
+学ぶ,manabu,To learn,N3,verb,新しいことを学びます。,I learn new things.,Formal
+研究,kenkyuu,Research,N3,noun,大学で研究しています。,I'm researching at university.,Academic
+発見,hakken,Discovery,N3,noun,新しい発見がありました。,There was a new discovery.,Academic
+発明,hatsumei,Invention,N3,noun,電球を発明しました。,He invented the light bulb.,Historical
+能力,nouryoku,Ability,N3,noun,能力を伸ばします。,I'll develop my abilities.,Self-improvement
+才能,sainou,Talent,N3,noun,音楽の才能があります。,He has musical talent.,Personal
+努力,doryoku,Effort,N3,noun,努力が大切です。,Effort is important.,Common
+成功,seikou,Success,N3,noun,試験に成功しました。,I succeeded in the exam.,Common
+失敗,shippai,Failure,N3,noun,失敗から学びます。,I learn from failure.,Common
+原因,gen-in,Cause / reason,N3,noun,事故の原因を調べます。,I investigate the cause of the accident.,Common
+結果,kekka,Result,N3,noun,試験の結果が出ました。,The exam results came out.,Common
+方法,houhou,Method / way,N3,noun,いい方法があります。,There's a good method.,Common
+手段,shudan,Means / way,N3,noun,交通手段を考えます。,I consider transportation means.,Formal
+基本,kihon,Basics / foundation,N3,noun,基本から勉強します。,I study from basics.,Common
+詳しい,kuwashii,Detailed / familiar with,N3,adjective,日本史に詳しいです。,I'm knowledgeable about Japanese history.,Adjective
+簡単,kantan,Simple / easy,N4,adjective(na),簡単な問題です。,It's a simple problem.,na-adjective
+複雑,fukuzatsu,Complicated,N3,adjective(na),複雑な状況です。,It's a complicated situation.,na-adjective
+重要,juuyou,Important,N3,adjective(na),重要な会議です。,It's an important meeting.,na-adjective
+必要,hitsuyou,Necessary,N3,adjective(na),日本語が必要です。,Japanese is necessary.,Common
+十分,juubun,Enough / sufficient,N3,adjective(na),十分な時間があります。,There is enough time.,Common
+不十分,fujuubun,Insufficient,N3,adjective(na),準備が不十分でした。,Preparation was insufficient.,Common
+適切,tekisetsu,Appropriate,N3,adjective(na),適切な対応をしました。,I took appropriate action.,Formal
+正確,seikaku,Accurate / precise,N3,adjective(na),正確な情報です。,It's accurate information.,Formal
+普通,futsuu,Normal / ordinary,N3,adjective(na),普通の生活をしています。,I live an ordinary life.,Common
+特別,tokubetsu,Special,N3,adjective(na),特別なお願いです。,It's a special request.,Common
+急ぐ,isogu,To hurry,N3,verb,急いでください。,Please hurry.,Common
+慌てる,awateru,To panic,N3,verb,慌てないでください。,Please don't panic.,Common
+落ち着く,ochitsuku,To calm down,N3,verb,落ち着いてください。,Please calm down.,Common
+驚く,odoroku,To be surprised,N3,verb,そのニュースに驚きました。,I was surprised by that news.,Emotion
+喜ぶ,yorokobu,To be glad,N3,verb,プレゼントを喜びました。,He was glad about the gift.,Emotion
+怒る,okoru,To get angry,N3,verb,彼は怒っています。,He is angry.,Emotion
+泣く,naku,To cry,N3,verb,赤ちゃんが泣いています。,The baby is crying.,Common
+笑う,warau,To laugh / smile,N3,verb,皆が笑いました。,Everyone laughed.,Common
+驚き,odoroki,Surprise,N3,noun,驚きの結果でした。,It was a surprising result.,Emotion
+喜び,yorokobi,Joy / gladness,N3,noun,喜びを感じます。,I feel joy.,Emotion
+悲しみ,kanashimi,Sadness,N3,noun,深い悲しみを感じます。,I feel deep sadness.,Emotion
+恐れ,osore,Fear / dread,N3,noun,失敗の恐れがあります。,There is fear of failure.,Emotion
+夢,yume,Dream,N3,noun,昨日変な夢を見ました。,I had a strange dream yesterday.,Common
+希望,kibou,Hope,N3,noun,希望を持っています。,I have hope.,Common
+目標,mokuhyou,Goal,N3,noun,目標を達成しました。,I achieved my goal.,Common
+計画,keikaku,Plan,N3,noun,計画を立てました。,I made a plan.,Common
+予想,yosou,Prediction / forecast,N3,noun,予想通りでした。,It was as predicted.,Common
+予定通り,yoteidoori,As scheduled,N3,adverb,予定通りに進みます。,Proceed as scheduled.,Business
+思い出,omoide,Memory / recollection,N3,noun,いい思い出になりました。,It became a good memory.,Sentimental
+記念,kinen,Commemoration,N3,noun,記念写真を撮りました。,We took a commemorative photo.,Common
+記録,kiroku,Record / log,N3,noun,記録を更新しました。,I broke the record.,Sports / data
+表現,hyougen,Expression,N3,noun,日本語の表現は難しい。,Japanese expressions are difficult.,Language
+発音,hatsuon,Pronunciation,N3,noun,発音が上手です。,Your pronunciation is good.,Language
+意味する,imisuru,To mean,N3,verb,この記号は何を意味しますか。,What does this symbol mean?,Common
+表す,arawasu,To express / show,N3,verb,気持ちを表します。,I express my feelings.,Common
+集める,atsumeru,To collect / gather,N3,verb,情報を集めます。,I gather information.,Common
+集まる,atsumaru,To gather (intransitive),N3,verb,皆が集まりました。,Everyone gathered.,Common
+別れる,wakareru,To separate / part,N3,verb,駅で別れました。,We parted at the station.,Common
+出会う,deau,To meet (encounter),N3,verb,旅行で出会いました。,We met during the trip.,Common
+通る,tooru,To pass through,N3,verb,この道を通ります。,I pass through this road.,Common
+通う,kayou,To commute,N3,verb,毎日学校に通います。,I commute to school every day.,Common
+迎える,mukaeru,To welcome / pick up,N3,verb,空港で迎えます。,I'll pick you up at the airport.,Common
+送る,okuru,To send / see off,N3,verb,駅まで送ります。,I'll see you off to the station.,Common
+持つ,motsu,To hold / have,N5,verb,カバンを持っています。,I'm holding a bag.,Common
+止める,tomeru,To stop (transitive),N4,verb,車を止めます。,I stop the car.,Common
+動く,ugoku,To move,N4,verb,電車が動きました。,The train moved.,Common
+変わる,kawaru,To change (intransitive),N4,verb,景色が変わりました。,The scenery changed.,Common
+変える,kaeru,To change (transitive),N4,verb,予定を変えます。,I change my plans.,Common
+増える,fueru,To increase,N3,verb,お客様が増えました。,Customers increased.,Common
+減る,heru,To decrease,N3,verb,人口が減っています。,The population is decreasing.,Common
