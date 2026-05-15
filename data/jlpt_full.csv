@@ -300,3 +300,104 @@ japanese,romaji,english,jlpt,pos,example_jp,example_en,notes
 変える,kaeru,To change (transitive),N4,verb,予定を変えます。,I change my plans.,Common
 増える,fueru,To increase,N3,verb,お客様が増えました。,Customers increased.,Common
 減る,heru,To decrease,N3,verb,人口が減っています。,The population is decreasing.,Common
+活躍,katsuyaku,Active role / playing big part,N3,noun,世界で活躍する選手。,An athlete who is active worldwide.,Career
+活動,katsudou,Activity,N3,noun,ボランティア活動をします。,I do volunteer activities.,Common
+活気,kakki,Liveliness / vigor,N3,noun,街は活気にあふれている。,The town is full of life.,Atmosphere
+評価,hyouka,Evaluation,N3,noun,作品の評価が高い。,The work's evaluation is high.,Formal
+批判,hihan,Criticism,N3,noun,激しい批判を受けた。,He received harsh criticism.,Negative
+反対,hantai,Opposition / opposite,N3,noun,反対意見もあります。,There are opposing opinions too.,Common
+賛成,sansei,Agreement,N3,noun,その案に賛成です。,I agree with that proposal.,Common
+討論,touron,Debate,N3,noun,熱い討論が続いた。,Heated debate continued.,Formal
+議論,giron,Discussion / argument,N3,noun,議論の余地がある。,There is room for discussion.,Common
+解決,kaiketsu,Resolution / solution,N3,noun,問題を解決します。,I solve the problem.,Common
+解決策,kaiketsusaku,Solution / measure,N3,noun,解決策を提案します。,I propose a solution.,Business
+対策,taisaku,Countermeasure,N3,noun,対策を考えます。,We think of countermeasures.,Common
+対応,taiou,Response / handling,N3,noun,迅速な対応をします。,We respond quickly.,Business
+処理,shori,Processing / handling,N3,noun,データを処理します。,I process the data.,Technical
+作業,sagyou,Work / task,N3,noun,作業を始めます。,I begin the task.,Common
+作成,sakusei,Creation / preparation,N3,noun,書類を作成します。,I prepare documents.,Business
+作品,sakuhin,Work (of art),N3,noun,有名な作品です。,It's a famous work.,Art
+製品,seihin,Product,N3,noun,新製品が発売された。,A new product was released.,Business
+商品,shouhin,Merchandise,N3,noun,商品を返品します。,I return the merchandise.,Shopping
+品物,shinamono,Goods / things,N3,noun,いい品物ですね。,These are nice goods.,Shopping
+価値,kachi,Value,N3,noun,価値のあるものです。,It is something valuable.,Abstract
+価格,kakaku,Price,N3,noun,価格が上がりました。,The price went up.,Business
+割引,waribiki,Discount,N3,noun,10%割引します。,I'll give a 10% discount.,Shopping
+無料,muryou,Free of charge,N3,adjective(na),入場は無料です。,Admission is free.,Common
+有料,yuuryou,Charged / paid,N3,adjective(na),駐車場は有料です。,Parking is paid.,Common
+お釣り,otsuri,Change (money),N3,noun,お釣りをください。,Please give me change.,Shopping
+財布,saifu,Wallet,N4,noun,財布を忘れました。,I forgot my wallet.,Common
+銀行,ginkou,Bank,N5,noun,銀行に行きます。,I'm going to the bank.,Common
+口座,kouza,Account (bank),N3,noun,口座を開きました。,I opened an account.,Banking
+振込,furikomi,Bank transfer,N3,noun,振込でお願いします。,Please pay by transfer.,Banking
+給料,kyuuryou,Salary,N3,noun,給料日は25日です。,Payday is the 25th.,Work
+税金,zeikin,Tax,N3,noun,税金を払います。,I pay taxes.,Common
+収入,shuunyuu,Income,N3,noun,収入が増えました。,Income increased.,Finance
+支出,shishutsu,Expenses,N3,noun,支出を減らします。,I reduce expenses.,Finance
+貯金,chokin,Savings,N3,noun,毎月貯金しています。,I save every month.,Finance
+借金,shakkin,Debt,N3,noun,借金を返します。,I repay the debt.,Finance
+投資,toushi,Investment,N3,noun,株に投資します。,I invest in stocks.,Finance
+保険,hoken,Insurance,N3,noun,生命保険に入っています。,I have life insurance.,Finance
+年金,nenkin,Pension,N3,noun,年金をもらいます。,I receive pension.,Finance
+通貨,tsuuka,Currency,N2,noun,日本の通貨は円です。,Japan's currency is yen.,Finance
+円,en,Yen / circle,N5,noun,1万円です。,It's 10000 yen.,Common
+ドル,doru,Dollar,N4,noun,100ドルあります。,I have 100 dollars.,Loanword
+ユーロ,yuuro,Euro,N4,noun,ユーロに両替します。,I exchange for euros.,Loanword
+両替,ryougae,Money exchange,N3,noun,両替所はどこですか。,Where is the exchange counter?,Travel
+旅行者,ryokousha,Tourist,N3,noun,外国人旅行者が増えた。,Foreign tourists increased.,Travel
+観光地,kankouchi,Tourist spot,N3,noun,有名な観光地です。,It's a famous tourist spot.,Travel
+名所,meisho,Famous spot,N3,noun,京都の名所を訪れた。,I visited Kyoto's famous spots.,Travel
+お土産,omiyage,Souvenir,N3,noun,お土産を買います。,I'll buy souvenirs.,Travel
+ホテル,hoteru,Hotel,N5,noun,ホテルを予約しました。,I booked a hotel.,Travel
+旅館,ryokan,Japanese inn,N3,noun,温泉旅館に泊まりました。,I stayed at a hot spring inn.,Travel
+民宿,minshuku,Family-run inn,N3,noun,民宿は安いです。,Family inns are cheap.,Travel
+温泉,onsen,Hot spring,N3,noun,温泉に入ります。,I take a hot spring bath.,Travel
+ビザ,biza,Visa,N3,noun,ビザを取りました。,I got a visa.,Travel
+パスポート,pasupooto,Passport,N5,noun,パスポートを失くしました。,I lost my passport.,Travel
+荷物,nimotsu,Luggage,N4,noun,荷物が多いです。,There is a lot of luggage.,Travel
+切符,kippu,Ticket,N5,noun,切符を買います。,I buy a ticket.,Travel
+チケット,chiketto,Ticket (loan),N4,noun,コンサートのチケットを取った。,I got concert tickets.,Loanword
+予約,yoyaku,Reservation,N3,noun,予約を取り消します。,I cancel the reservation.,Common
+キャンセル,kyanseru,Cancel (loan),N4,noun,キャンセル料がかかります。,A cancellation fee applies.,Loanword
+変更,henkou,Change,N3,noun,予定を変更します。,I change the schedule.,Common
+延期,enki,Postponement,N3,noun,試合は延期になった。,The game was postponed.,Formal
+中止,chuushi,Cancellation / suspension,N3,noun,イベントは中止です。,The event is cancelled.,Formal
+完了,kanryou,Completion,N3,noun,作業が完了しました。,The work is complete.,Formal
+未完成,mikansei,Incomplete,N3,noun,まだ未完成です。,It's still incomplete.,Formal
+進行,shinkou,Progress,N3,noun,順調に進行しています。,It's progressing smoothly.,Formal
+進歩,shinpo,Progress (development),N3,noun,科学が進歩しました。,Science advanced.,Formal
+発達,hattatsu,Development,N3,noun,子供の発達を見守る。,Watch over the child's development.,Common
+向上,koujou,Improvement,N3,noun,品質向上を目指します。,We aim for quality improvement.,Business
+低下,teika,Decrease / decline,N3,noun,売り上げが低下した。,Sales declined.,Business
+上昇,joushou,Rise / increase,N3,noun,気温が上昇する。,The temperature rises.,Common
+下降,kakou,Descend / decline,N3,noun,株価が下降した。,Stock price declined.,Finance
+維持,iji,Maintenance,N3,noun,健康を維持します。,I maintain my health.,Common
+保持,hoji,Holding / keeping,N3,noun,記録を保持しています。,He holds the record.,Sports
+保存,hozon,Preservation / saving,N3,noun,ファイルを保存します。,I save the file.,Technology
+削除,sakujo,Deletion,N3,noun,メールを削除しました。,I deleted the email.,Technology
+更新,koushin,Update / renewal,N3,noun,ソフトを更新します。,I update the software.,Technology
+編集,henshuu,Editing,N3,noun,動画を編集します。,I edit the video.,Common
+作家,sakka,Writer / author,N3,noun,有名な作家です。,He is a famous writer.,Job
+記者,kisha,Reporter / journalist,N3,noun,新聞記者になりたい。,I want to be a journalist.,Job
+編集者,henshuusha,Editor,N3,noun,雑誌の編集者です。,She is a magazine editor.,Job
+学者,gakusha,Scholar,N3,noun,有名な学者です。,He is a famous scholar.,Job
+専門家,senmonka,Expert,N3,noun,その分野の専門家です。,He is an expert in the field.,Job
+弁護士,bengoshi,Lawyer,N3,noun,弁護士に相談します。,I consult a lawyer.,Job
+教授,kyouju,Professor,N3,noun,大学教授です。,He is a university professor.,Job
+社長,shachou,Company president,N3,noun,社長と会いました。,I met the president.,Job
+部長,buchou,Department head,N3,noun,部長になりました。,I became department head.,Job
+同僚,douryou,Colleague,N3,noun,同僚と飲みに行きます。,I go drinking with colleagues.,Job
+上司,joushi,Boss / superior,N3,noun,上司に報告します。,I report to my boss.,Job
+部下,buka,Subordinate,N3,noun,部下を育てます。,I train my subordinates.,Job
+新人,shinjin,Newcomer / rookie,N3,noun,新人を歓迎します。,We welcome the newcomers.,Job
+退職,taishoku,Retirement / resigning,N3,noun,来月退職します。,I'm retiring next month.,Job
+転職,tenshoku,Career change,N3,noun,IT業界に転職しました。,I switched to the IT industry.,Job
+就職,shuushoku,Getting a job,N3,noun,就職活動をしています。,I'm doing job hunting.,Job
+面接,mensetsu,Interview (job),N3,noun,明日面接があります。,I have an interview tomorrow.,Job
+履歴書,rirekisho,Resume,N3,noun,履歴書を書きます。,I write my resume.,Job
+求人,kyuujin,Job offer / hiring,N3,noun,求人広告を見ました。,I saw the job ad.,Job
+人事,jinji,HR / personnel,N3,noun,人事部に異動した。,He transferred to HR.,Job
+出張,shucchou,Business trip,N3,noun,大阪に出張します。,I'm going on a business trip to Osaka.,Job
+残業,zangyou,Overtime,N3,noun,残業が多いです。,There's a lot of overtime.,Job
+休暇,kyuuka,Vacation / leave,N3,noun,夏休みを取ります。,I'll take summer vacation.,Job
+有給,yuukyuu,Paid leave,N3,noun,有給を申請します。,I request paid leave.,Job
