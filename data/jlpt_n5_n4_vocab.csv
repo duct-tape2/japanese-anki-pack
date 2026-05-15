@@ -1,0 +1,99 @@
+japanese,romaji,english,jlpt,pos,example_jp,example_en,notes
+おはよう,ohayou,Good morning (casual),N5,greeting,おはよう、田中さん。,"Good morning, Tanaka.",Used with friends/family
+おはようございます,ohayou gozaimasu,Good morning (formal),N5,greeting,おはようございます、先生。,"Good morning, teacher.",Formal/workplace
+こんにちは,konnichiwa,Good afternoon / Hello,N5,greeting,こんにちは、お元気ですか。,"Hello, how are you?",Daytime greeting
+こんばんは,konbanwa,Good evening,N5,greeting,こんばんは、田中さん。,"Good evening, Tanaka.",Evening greeting
+さようなら,sayounara,Goodbye,N5,greeting,さようなら、また明日。,"Goodbye, see you tomorrow.","Permanent or long goodbye"
+ありがとう,arigatou,Thank you (casual),N5,greeting,ありがとう、助かった。,"Thank you, you saved me.",Casual thanks
+ありがとうございます,arigatou gozaimasu,Thank you (formal),N5,greeting,ありがとうございます。,Thank you very much.,Formal thanks
+すみません,sumimasen,Excuse me / I'm sorry,N5,greeting,すみません、駅はどこですか。,"Excuse me, where is the station?",Polite attention/apology
+はい,hai,Yes,N5,particle,はい、わかりました。,"Yes, I understood.",Affirmative
+いいえ,iie,No,N5,particle,いいえ、違います。,"No, that's wrong.",Negative
+私,watashi,I / me,N5,pronoun,私は学生です。,I am a student.,Polite first person
+あなた,anata,You,N5,pronoun,あなたは何歳ですか。,How old are you?,Use with care - sometimes too direct
+これ,kore,This (near me),N5,pronoun,これは何ですか。,What is this?,Object near speaker
+それ,sore,That (near you),N5,pronoun,それを取ってください。,Please take that.,Object near listener
+あれ,are,That (over there),N5,pronoun,あれは富士山です。,That is Mt. Fuji.,Object far from both
+何,nani,What,N5,pronoun,これは何ですか。,What is this?,Common question word
+誰,dare,Who,N5,pronoun,あの人は誰ですか。,Who is that person?,Question word
+どこ,doko,Where,N5,pronoun,トイレはどこですか。,Where is the toilet?,Common in travel
+いつ,itsu,When,N5,pronoun,いつ来ますか。,When are you coming?,Time question
+学校,gakkou,School,N5,noun,学校に行きます。,I go to school.,Common noun
+家,ie,House / home,N5,noun,私の家は東京です。,My house is in Tokyo.,Also "uchi" reading
+水,mizu,Water,N5,noun,水を飲みます。,I drink water.,Liquid drink
+食べる,taberu,To eat,N5,verb,寿司を食べます。,I eat sushi.,ru-verb (group 2)
+飲む,nomu,To drink,N5,verb,お茶を飲みます。,I drink tea.,u-verb (group 1)
+行く,iku,To go,N5,verb,東京に行きます。,I go to Tokyo.,Irregular conjugation in past
+来る,kuru,To come,N5,verb,友達が来ます。,A friend comes.,Irregular verb
+見る,miru,To see / watch,N5,verb,映画を見ます。,I watch a movie.,ru-verb
+する,suru,To do,N5,verb,勉強をします。,I study.,Irregular verb
+大きい,ookii,Big,N5,adjective,大きい家ですね。,"It's a big house, isn't it?",i-adjective
+小さい,chiisai,Small,N5,adjective,小さい犬です。,It's a small dog.,i-adjective
+新しい,atarashii,New,N5,adjective,新しい車を買いました。,I bought a new car.,i-adjective
+古い,furui,Old,N5,adjective,古い本があります。,There is an old book.,i-adjective
+高い,takai,High / expensive,N5,adjective,この時計は高いです。,This watch is expensive.,Dual meaning
+安い,yasui,Cheap,N5,adjective,安いランチを食べました。,I ate a cheap lunch.,i-adjective
+今日,kyou,Today,N5,noun,今日は暑いです。,Today is hot.,Time word
+明日,ashita,Tomorrow,N5,noun,明日また来ます。,I will come again tomorrow.,Time word
+昨日,kinou,Yesterday,N5,noun,昨日は雨でした。,Yesterday was rainy.,Time word
+朝,asa,Morning,N5,noun,朝ご飯を食べました。,I ate breakfast.,Part of day
+夜,yoru,Night,N5,noun,夜は寒いです。,The night is cold.,Part of day
+一,ichi,One,N5,number,一つください。,One please.,Number 1
+二,ni,Two,N5,number,二人で行きます。,We go as two.,Number 2
+三,san,Three,N5,number,三冊買いました。,I bought three (volumes).,Number 3
+四,shi/yon,Four,N5,number,四時に会いましょう。,Let's meet at 4.,Number 4 (avoid shi sometimes)
+五,go,Five,N5,number,五分待ってください。,Please wait 5 minutes.,Number 5
+分かる,wakaru,To understand,N4,verb,日本語が分かります。,I understand Japanese.,Uses が particle
+出来る,dekiru,Can do / be able to,N4,verb,日本語が出来ます。,I can speak Japanese.,Uses が particle
+始める,hajimeru,To begin (transitive),N4,verb,仕事を始めます。,I begin work.,ru-verb
+終わる,owaru,To end,N4,verb,会議が終わりました。,The meeting ended.,u-verb intransitive
+便利,benri,Convenient,N4,adjective(na),このアプリは便利です。,This app is convenient.,na-adjective
+不便,fuben,Inconvenient,N4,adjective(na),駅から遠くて不便です。,Far from station and inconvenient.,na-adjective
+親切,shinsetsu,Kind / helpful,N4,adjective(na),あの店員は親切でした。,That clerk was kind.,na-adjective
+有名,yuumei,Famous,N4,adjective(na),あの歌手は有名です。,That singer is famous.,na-adjective
+大丈夫,daijoubu,Okay / fine,N4,adjective(na),大丈夫ですか。,Are you okay?,Very common phrase
+頑張る,ganbaru,To do one's best,N4,verb,試験を頑張ります。,I'll do my best on the exam.,u-verb common
+忙しい,isogashii,Busy,N4,adjective,今日は忙しいです。,Today I am busy.,i-adjective
+楽しい,tanoshii,Fun / enjoyable,N4,adjective,旅行は楽しかったです。,The trip was fun.,i-adjective
+寂しい,sabishii,Lonely,N4,adjective,一人で寂しいです。,Alone and lonely.,Common in songs
+嬉しい,ureshii,Happy,N4,adjective,会えて嬉しいです。,Happy to meet you.,Emotion
+悲しい,kanashii,Sad,N4,adjective,その話は悲しいです。,That story is sad.,Emotion
+恥ずかしい,hazukashii,Embarrassed,N4,adjective,間違えて恥ずかしいです。,I made a mistake and am embarrassed.,Common emotion
+危ない,abunai,Dangerous,N4,adjective,危ない場所です。,It is a dangerous place.,Warning word
+珍しい,mezurashii,Rare / unusual,N4,adjective,珍しい花を見ました。,I saw an unusual flower.,Discovery
+意味,imi,Meaning,N4,noun,この単語の意味は何ですか。,What is the meaning of this word?,Common in study
+理由,riyuu,Reason,N4,noun,その理由を教えてください。,Please tell me the reason.,Asking why
+気持ち,kimochi,Feeling / mood,N4,noun,気持ちがいいです。,The feeling is good.,Emotions
+心配,shinpai,Worry,N4,noun/verb,心配しないでください。,Please don't worry.,Common phrase
+約束,yakusoku,Promise,N4,noun,約束を守ります。,I keep my promise.,Trust word
+経験,keiken,Experience,N4,noun,いい経験になりました。,It became a good experience.,Common reflection
+将来,shourai,Future,N4,noun,将来の夢は何ですか。,What is your dream for the future?,Common question
+最近,saikin,Recently,N4,adverb,最近忙しいです。,Recently I am busy.,Time word
+たぶん,tabun,Probably / maybe,N4,adverb,たぶん来ます。,Probably will come.,Uncertainty
+もちろん,mochiron,Of course,N4,adverb,もちろん行きます。,Of course I will go.,Confirmation
+まだ,mada,Still / not yet,N4,adverb,まだ食べていません。,I haven't eaten yet.,Time word
+もう,mou,Already,N4,adverb,もう食べました。,I already ate.,Time word
+特に,tokuni,Especially,N4,adverb,特に好きです。,I especially like it.,Emphasis
+全然,zenzen,Not at all (with neg.),N4,adverb,全然分かりません。,I don't understand at all.,Often with negative
+急に,kyuuni,Suddenly,N4,adverb,急に雨が降りました。,It suddenly rained.,Time word
+だんだん,dandan,Gradually,N4,adverb,だんだん上手になりました。,I gradually got better.,Progress
+ちょっと,chotto,A little / just a moment,N4,adverb,ちょっと待ってください。,Please wait a moment.,Very common
+たくさん,takusan,A lot,N4,adverb,本がたくさんあります。,There are many books.,Quantity
+ぜひ,zehi,By all means,N4,adverb,ぜひ来てください。,Please definitely come.,Strong invitation
+やっと,yatto,Finally / at last,N4,adverb,やっと終わりました。,I finally finished.,Relief
+ずっと,zutto,All along / continuously,N4,adverb,ずっと待っていました。,I have been waiting all along.,Duration
+たまに,tamani,Occasionally,N4,adverb,たまに映画を見ます。,Occasionally I watch movies.,Frequency
+いつも,itsumo,Always,N4,adverb,いつもありがとうございます。,Thank you always.,Frequency
+時々,tokidoki,Sometimes,N4,adverb,時々日本に行きます。,Sometimes I go to Japan.,Frequency
+今,ima,Now,N5,noun,今、忙しいです。,I am busy now.,Time word
+時間,jikan,Time / hour,N5,noun,時間がありません。,I don't have time.,Common noun
+仕事,shigoto,Work,N5,noun,仕事に行きます。,I go to work.,Common noun
+会社,kaisha,Company,N5,noun,会社に着きました。,I arrived at the company.,Business word
+電車,densha,Train,N5,noun,電車で行きます。,I go by train.,Transportation
+車,kuruma,Car,N5,noun,車を持っています。,I have a car.,Transportation
+飛行機,hikouki,Airplane,N5,noun,飛行機で日本に行きました。,I went to Japan by airplane.,Transportation
+名前,namae,Name,N5,noun,お名前は何ですか。,What is your name?,Polite question
+電話,denwa,Phone,N5,noun,電話をかけます。,I make a phone call.,Common noun
+お金,okane,Money,N5,noun,お金がありません。,I don't have money.,Common noun
+旅行,ryokou,Travel / trip,N5,noun,旅行が好きです。,I like traveling.,Common hobby
+天気,tenki,Weather,N5,noun,今日は天気がいいです。,The weather is good today.,Daily word
