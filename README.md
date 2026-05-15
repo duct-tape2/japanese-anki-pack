@@ -17,11 +17,19 @@ This pack breaks down real expressions from cultural contexts (without redistrib
 
 Read these without paying anything:
 
+**Basics (perfect if you're starting out):**
+
 1. [**"Good Morning" - Ohayou vs Ohayou Gozaimasu**](samples/01-greetings-ohayou.md) - Casual vs formal greetings, component breakdown
 2. [**Hiragana Pronunciation Reading**](samples/02-hiragana-pronunciation.md) - How to actually pronounce the kana you keep seeing
 3. [**"Anpi Fumei" - Whereabouts Unknown**](samples/03-anpiufumei-meaning.md) - Vocabulary you hear in news and dramas
 
-If these feel useful, the paid pack contains 50+ more lessons in the same depth.
+**J-Pop deep dives (real songs, copyright-safe educational analysis):**
+
+4. [**back number - "Happy End"**](samples/04-jpop-back-number-happy-end.md) - Vocabulary of regret, ～のに particle, hazu ga nai grammar
+5. [**back number - "Hanataba"**](samples/05-jpop-back-number-hanabata.md) - Romantic emotional vocabulary
+6. [**Official Hige Dandism - "Stardust"**](samples/06-jpop-higedan-stardust.md) - Modern pop grammar patterns
+
+If these feel useful, the paid pack contains 50+ more lessons in the same depth + an Anki deck with 98 cards.
 
 ## What's In The Paid Pack ($29 USD)
 
