@@ -10,8 +10,8 @@ from pathlib import Path
 MODEL_ID = 1607392319
 DECK_ID = 2059400110
 
-CSV_PATH = Path(__file__).parent / "data" / "jlpt_n5_n4_vocab.csv"
-OUT_PATH = Path(__file__).parent / "dist" / "easy-japanese-jlpt-n5-n4.apkg"
+CSV_PATH = Path(__file__).parent / "data" / "jlpt_full.csv"
+OUT_PATH = Path(__file__).parent / "dist" / "easy-japanese-jlpt-full.apkg"
 
 
 def build():
@@ -70,7 +70,7 @@ def build():
         """,
     )
 
-    deck = genanki.Deck(DECK_ID, "Easy Japanese :: JLPT N5/N4 Vocabulary (Anime & J-Pop)")
+    deck = genanki.Deck(DECK_ID, "Easy Japanese :: JLPT N5/N4/N3 Vocabulary (Anime & J-Pop)")
 
     count = 0
     with CSV_PATH.open(encoding="utf-8") as f:
