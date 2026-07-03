@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the paid Anki deck from the JLPT N5/N4 vocabulary CSV."""
+"""Build the paid Anki deck from the full JLPT vocabulary CSV."""
 
 import csv
 import genanki
@@ -94,7 +94,7 @@ def build():
 
     OUT_PATH.parent.mkdir(exist_ok=True)
     genanki.Package(deck).write_to_file(str(OUT_PATH))
-    print(f"Built {OUT_PATH} ({count} cards)")
+    print(f"Built {OUT_PATH} ({count} notes, {count * 2} cards)")
     return count
 
 

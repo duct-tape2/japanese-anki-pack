@@ -2,7 +2,7 @@
 
 > Learn Japanese the way fans actually consume it. Anime, J-pop, drama phrasebook for JLPT N5/N4 learners worldwide.
 
-3 free sample lessons + a free Anki sample deck + 50+ premium lessons + Anki deck for $29.
+6 free sample lessons + a free Anki sample deck + 28 premium lesson topics in EN/ES/VI + a 402-note Anki deck for $29.
 
 ## Why This Pack
 
@@ -33,18 +33,18 @@ Read these without paying anything:
 5. [**back number - "Hanataba"**](samples/05-jpop-back-number-hanabata.md) - Romantic emotional vocabulary
 6. [**Official Hige Dandism - "Stardust"**](samples/06-jpop-higedan-stardust.md) - Modern pop grammar patterns
 
-If these feel useful, the paid pack contains 50+ more lessons in the same depth + an Anki deck with 98 cards.
+If these feel useful, the paid pack contains 28 lesson topics in English, Spanish, and Vietnamese (84 Markdown files total) + a full Anki deck with 402 notes / 804 review cards.
 
 ## What's In The Paid Pack ($29 USD)
 
 | Item | Count |
 |---|---|
-| Lesson Markdown files (grammar breakdown + cultural context) | 50+ |
-| Anki deck (.apkg ready to import) | 1 (~300 cards) |
-| JLPT N5/N4 vocabulary CSV | 1 |
+| Lesson Markdown files (grammar breakdown + cultural context) | 84 files (28 topics x EN/ES/VI) |
+| Anki deck (.apkg ready to import) | 1 (402 notes / 804 review cards) |
+| JLPT vocabulary CSV files | 5 |
 | PDF compilation (printable) | 1 |
-| Romaji + IPA pronunciation guide | included in each lesson |
-| Translation in EN + ES + VI (some lessons) | yes |
+| Romaji / pronunciation notes | included across the lessons and cards |
+| Translation in EN + ES + VI | yes |
 
 ### Lesson Topics Covered
 

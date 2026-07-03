@@ -16,7 +16,7 @@ elapsed_seconds: 140.6
 
 ## Get The Full Pack
 
-The paid pack includes 50+ lessons, an Anki deck, JLPT N5/N4 vocabulary CSV, and a printable PDF.
+The paid pack includes 28 lesson topics in English, Spanish, and Vietnamese (84 Markdown files total), a 402-note Anki deck, JLPT vocabulary CSV files, and a printable PDF.
 
 [Buy now - PayPal $29](https://www.paypal.me/sks7178/29)
 

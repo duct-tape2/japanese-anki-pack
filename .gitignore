@@ -2,6 +2,7 @@ paid_bundle/
 paid_bundle.zip
 _paid_lessons_temp/
 dist/
+tmp/
 __pycache__/
 *.pyc
 .DS_Store
