@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Easy Japanese Anime & J-Pop Vocabulary Pack</title>
+  <meta name="description" content="Free Japanese Anki sample deck plus a $29 pack with 84 lessons, a 402-note Anki deck, JLPT CSVs, and a printable PDF.">
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #17212b;
+      --muted: #52616f;
+      --line: #d9e2ec;
+      --paper: #fffaf3;
+      --panel: #ffffff;
+      --accent: #b9342b;
+      --accent-dark: #8f241e;
+      --gold: #f3b23f;
+      --leaf: #1f7a62;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        linear-gradient(135deg, rgba(185,52,43,.08), transparent 34%),
+        linear-gradient(315deg, rgba(31,122,98,.10), transparent 32%),
+        var(--paper);
+      line-height: 1.55;
+    }
+    a { color: var(--accent-dark); }
+    .wrap {
+      width: min(1060px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+    header {
+      padding: 38px 0 18px;
+    }
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .brand {
+      font-weight: 800;
+      color: var(--ink);
+      letter-spacing: .02em;
+    }
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.35fr) minmax(280px, .65fr);
+      gap: 32px;
+      align-items: start;
+      padding: 28px 0 36px;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(40px, 7vw, 74px);
+      line-height: .96;
+      letter-spacing: 0;
+      max-width: 840px;
+    }
+    .lead {
+      margin: 24px 0 0;
+      max-width: 700px;
+      color: var(--muted);
+      font-size: 20px;
+    }
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin: 28px 0 0;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 48px;
+      padding: 0 18px;
+      border: 1px solid var(--accent);
+      border-radius: 6px;
+      color: #fff;
+      background: var(--accent);
+      text-decoration: none;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+    .btn:hover { background: var(--accent-dark); }
+    .btn.secondary {
+      color: var(--accent-dark);
+      background: transparent;
+    }
+    .note {
+      margin: 14px 0 0;
+      max-width: 700px;
+      color: var(--muted);
+      font-size: 15px;
+    }
+    .panel {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: rgba(255,255,255,.86);
+      box-shadow: 0 20px 55px rgba(23,33,43,.08);
+      padding: 20px;
+    }
+    .price {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      margin-bottom: 18px;
+    }
+    .price strong { font-size: 42px; }
+    .price span { color: var(--muted); }
+    .checklist {
+      display: grid;
+      gap: 10px;
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    }
+    .checklist li {
+      padding-left: 24px;
+      position: relative;
+    }
+    .checklist li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: .55em;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--leaf);
+    }
+    section {
+      padding: 32px 0;
+      border-top: 1px solid rgba(23,33,43,.12);
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 28px;
+      letter-spacing: 0;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+    .tile {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: rgba(255,255,255,.74);
+      padding: 16px;
+      min-height: 122px;
+    }
+    .tile h3 {
+      margin: 0 0 6px;
+      font-size: 18px;
+    }
+    .tile p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 15px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+      border-radius: 8px;
+      background: rgba(255,255,255,.76);
+    }
+    th, td {
+      text-align: left;
+      border-bottom: 1px solid var(--line);
+      padding: 13px 14px;
+    }
+    th {
+      color: var(--muted);
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+    }
+    .steps {
+      margin: 0;
+      padding-left: 22px;
+      color: var(--ink);
+    }
+    .steps li + li { margin-top: 8px; }
+    footer {
+      padding: 32px 0 48px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    @media (max-width: 780px) {
+      .hero, .grid { grid-template-columns: 1fr; }
+      header { padding-top: 24px; }
+      .nav { align-items: flex-start; flex-direction: column; }
+      .btn { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <header class="wrap">
+    <div class="nav">
+      <div class="brand">Easy Japanese Pack</div>
+      <div>Anime, J-pop, drama phrases, and JLPT N5/N4 review cards</div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="hero">
+      <div>
+        <h1>Easy Japanese: Anime & J-Pop Vocabulary Pack</h1>
+        <p class="lead">Learn Japanese the way fans actually consume it, with original grammar notes, cultural context, and Anki-ready review cards.</p>
+        <div class="actions">
+          <a class="btn" href="https://www.paypal.me/sks7178/29" target="_blank" rel="noopener">Buy now - PayPal $29</a>
+          <a class="btn secondary" href="/japanese-anki-pack/samples/easy-japanese-sample.apkg">Free Anki sample</a>
+        </div>
+        <p class="note">After payment, email <a href="mailto:sks7178@gmail.com">sks7178@gmail.com</a> with payer name or email prefix, payment time, and delivery email. Prefer GitHub? Open a <a href="https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml">buy issue</a> with public-safe details only. Do not post a full transaction ID.</p>
+      </div>
+      <aside class="panel" aria-label="Pack summary">
+        <div class="price"><strong>$29</strong><span>USD</span></div>
+        <ul class="checklist">
+          <li>84 lesson Markdown files</li>
+          <li>402-note / 804-card Anki deck</li>
+          <li>JLPT vocabulary CSV files</li>
+          <li>Printable PDF compilation</li>
+          <li>English, Spanish, and Vietnamese lesson variants</li>
+        </ul>
+      </aside>
+    </div>
+
+    <section>
+      <h2>Free Samples</h2>
+      <div class="grid">
+        <article class="tile">
+          <h3>Anki Sample Deck</h3>
+          <p><a href="/japanese-anki-pack/samples/easy-japanese-sample.apkg">Download 20 notes / 40 cards</a> from the JLPT N5/N4 vocabulary pack.</p>
+        </article>
+        <article class="tile">
+          <h3>Beginner Basics</h3>
+          <p>Read greetings, hiragana pronunciation, and common drama/news vocabulary before paying.</p>
+        </article>
+        <article class="tile">
+          <h3>J-Pop Deep Dives</h3>
+          <p>Study song-title context and grammar safely, without redistributed lyrics or audio.</p>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2>What Is Inside</h2>
+      <table>
+        <thead>
+          <tr><th>Item</th><th>Count</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Lesson Markdown files</td><td>84 files, 28 topics x EN/ES/VI</td></tr>
+          <tr><td>Anki deck</td><td>402 notes / 804 review cards</td></tr>
+          <tr><td>JLPT vocabulary CSV files</td><td>5</td></tr>
+          <tr><td>Printable PDF compilation</td><td>1</td></tr>
+          <tr><td>Romaji and pronunciation notes</td><td>Included</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>How To Buy</h2>
+      <ol class="steps">
+        <li>Pay $29 USD via <a href="https://www.paypal.me/sks7178/29" target="_blank" rel="noopener">PayPal.Me</a>.</li>
+        <li>Email <a href="mailto:sks7178@gmail.com">sks7178@gmail.com</a> with payer name or email prefix, payment time, and the email address where you want the ZIP delivered.</li>
+        <li>If you prefer GitHub, open the <a href="https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml">Buy Pack issue template</a> with public-safe details only.</li>
+        <li>Receive the ZIP download link within 5 min during JST/KST hours.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Rights And Fit</h2>
+      <p>This pack does not redistribute anime subtitles, scripts, song lyrics, manga panels, or audio files. It includes original explanations, author-written example sentences, vocabulary breakdowns, and learning notes.</p>
+      <p>Best for JLPT N5-N4 learners, anime and J-pop fans, self-learners using Anki, and travelers preparing for Japan.</p>
+    </section>
+  </main>
+
+  <footer class="wrap">
+    Contact: <a href="mailto:sks7178@gmail.com">sks7178@gmail.com</a> · GitHub: <a href="https://github.com/duct-tape2">@duct-tape2</a>
+  </footer>
+</body>
+</html>
