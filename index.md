@@ -1,22 +1,15 @@
 ---
-source: chatgpt_korean_original
-original_file: 2025-10-26 인사하기.md
-language: en
-language_name: English
-generated_at: 2026-04-21T16:31:07+09:00
-generator: scripts/global_japanese_blog_producer.py
-model: gemma4:31b
-elapsed_seconds: 140.6
+title: Easy Japanese Anime & J-Pop Vocabulary Pack
+description: Free Japanese Anki sample deck plus a $29 pack with 84 lessons, a 402-note Anki deck, JLPT CSVs, and a printable PDF.
 ---
 
-# How to Say "Good Morning" in Japanese: Ohayou vs. Ohayou Gozaimasu
+# Easy Japanese: Anime & J-Pop Vocabulary Pack
 
-**Perfect for beginners and intermediate learners wanting to master Japanese greetings.**
-**Learn the subtle difference between casual and formal ways to start your day.**
+Learn Japanese the way fans actually consume it: anime, J-pop, drama phrases, and JLPT N5/N4 vocabulary.
 
-## Get The Full Pack
+**Free samples:** 6 public lessons + a 20-note / 40-card Anki sample deck.
 
-The paid pack includes 28 lesson topics in English, Spanish, and Vietnamese (84 Markdown files total), a 402-note Anki deck, JLPT vocabulary CSV files, and a printable PDF.
+**Paid pack:** 84 lesson files, a 402-note / 804-card Anki deck, JLPT vocabulary CSVs, and a printable PDF for **$29 USD**.
 
 [Buy now - PayPal $29](https://www.paypal.me/sks7178/29)
 
@@ -24,81 +17,103 @@ After payment, open a [GitHub issue](https://github.com/duct-tape2/japanese-anki
 
 [Download the free Anki sample deck](samples/easy-japanese-sample.apkg)
 
-## The Core Phrase: おはようございます (Ohayou Gozaimasu)
+## Free Samples
 
-In Japanese, greeting someone in the morning is more than just a translation of "Good Morning." It is a social marker that indicates your relationship with the person you are speaking to.
+Read or download these before paying.
 
-**Full Reading:**
-*   **Kanji/Kana:** おはようございます
-*   **Romaji:** Ohayou gozaimasu
+**Anki sample deck**
 
----
+- [Download the free sample deck](samples/easy-japanese-sample.apkg) - 20 notes / 40 cards from the JLPT N5/N4 vocabulary pack
 
-## Component Breakdown
+**Beginner basics**
 
-To understand how this phrase works, we have to look at its grammatical structure. Unlike English, where "Good Morning" is a noun phrase, the Japanese greeting is rooted in an adjective describing the state of the day.
+1. ["Good Morning" - Ohayou vs Ohayou Gozaimasu](samples/01-greetings-ohayou.md) - casual vs formal greetings
+2. [Hiragana Pronunciation Reading](samples/02-hiragana-pronunciation.md) - how to pronounce kana naturally
+3. ["Anpi Fumei" - Whereabouts Unknown](samples/03-anpiufumei-meaning.md) - useful vocabulary from news and drama contexts
 
-### 1. おはよう (Ohayou)
-This is the casual root of the greeting. It originates from the adjective *hayai* (早い), meaning "early." Literally, you are acknowledging that the other person has woken up early or started their day promptly.
+**J-Pop deep dives**
 
-### 2. ございます (Gozaimasu)
-This is the formal auxiliary verb. It is a polite version of the verb *aru* (to exist/be). Adding *gozaimasu* to the end of *ohayou* transforms the phrase from a friendly greeting into a respectful one.
+4. [back number - "Happy End"](samples/04-jpop-back-number-happy-end.md) - regret vocabulary and grammar patterns
+5. [back number - "Hanataba"](samples/05-jpop-back-number-hanabata.md) - romantic emotional vocabulary
+6. [Official Hige Dandism - "Stardust"](samples/06-jpop-higedan-stardust.md) - modern pop grammar patterns
 
-**The Logic:**
-*   **Ohayou** = "You are early" (Casual)
-*   **Ohayou + Gozaimasu** = "You are early (and I am speaking to you with respect)" (Formal)
+## What's In The Paid Pack
 
----
+| Item | Count |
+|---|---:|
+| Lesson Markdown files | 84 files (28 topics x EN/ES/VI) |
+| Anki deck | 402 notes / 804 review cards |
+| JLPT vocabulary CSV files | 5 |
+| Printable PDF compilation | 1 |
+| Romaji / pronunciation notes | Included |
+| Translation coverage | English, Spanish, Vietnamese |
 
-## Real Usage Examples
+## Why Learners Buy It
 
-Depending on who you are talking to—a boss, a classmate, or a family member—you will choose a different version of this greeting.
+Most Japanese textbooks start with office-safe phrases. Fans usually want something more practical:
 
-### Example 1: To a Teacher or Boss (Formal)
-When entering an office or a classroom, always use the full version to show respect.
+- Why does an anime character say the casual version here?
+- What changes when "ohayou" becomes "ohayou gozaimasu"?
+- Which words from songs and dramas are actually useful for JLPT N5/N4?
+- How do I turn real phrases into Anki cards I can review every day?
 
-*   **Japanese:** おはようございます。
-*   **Romaji:** Ohayou gozaimasu.
-*   **English:** Good morning. (Formal)
+This pack gives grammar breakdowns, cultural context, JLPT level tags, and Anki-ready cards without redistributing copyrighted source material.
 
-### Example 2: To a Close Friend or Sibling (Casual)
-Once you have established a close relationship with someone, the formal ending is dropped to create a sense of intimacy.
+## Lesson Topics Covered
 
-*   **Japanese:** おはよう！
-*   **Romaji:** Ohayou!
-*   **English:** Morning! (Casual)
+- Greetings and social markers
+- Hiragana / Katakana mnemonic atlas
+- JLPT N5 and N4 kanji memory aids
+- J-pop common expressions with lyric-safe metadata only
+- Anime / drama phrasebook situations
+- Particle usage in real speech
+- Politeness levels: desu/masu vs casual
+- Time, numbers, counters, money, family, food, travel, and common verbs
 
-### Example 3: In a Professional Setting (The "First Meeting" Greeting)
-In Japanese company culture, *Ohayou gozaimasu* is often used the first time you see a colleague, even if it is actually lunch time or early afternoon.
+## Rights / Copyright Safety
 
-*   **Japanese:** おはようございます。よろしくお願いします。
-*   **Romaji:** Ohayou gozaimasu. Yoroshiku onegaishimasu.
-*   **English:** Good morning. I look forward to working with you today.
+This pack does **not** redistribute anime subtitles, scripts, song lyrics, manga panels, or audio files.
 
----
+It includes original grammar explanations, vocabulary breakdowns, cultural context, references for artist and song titles, and author-written Anki example sentences. Buyer is responsible for personal use only, with no resale or redistribution.
 
-## Cultural and Register Notes
+## How To Buy
 
-Understanding the **register** (the level of formality) is the most important part of Japanese communication. Using the wrong version of "Good Morning" can make you seem either overly stiff or accidentally rude.
+### Option 1 - PayPal (International)
 
-### Formal Register (Teineigo)
-Use **Ohayou gozaimasu** for:
-*   Superiors at work (Managers, CEOs).
-*   Teachers and professors.
-*   Strangers or acquaintances.
-*   Elderly people.
+1. Pay $29 USD via [PayPal.Me](https://www.paypal.me/sks7178/29).
+2. Open the [Buy Pack issue template](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) with payer name/email prefix plus payment time.
+3. Do not post the full PayPal transaction ID.
+4. Receive the ZIP download link within 5 min during JST/KST hours.
 
-### Casual Register (Tame-guchi)
-Use **Ohayou** for:
-*   Family members.
-*   Close friends of the same age or younger.
-*   Juniors at work (though many managers still use the formal version to be polite).
+### Option 2 - Wise
 
-### The "Time of Day" Nuance
-While English speakers strictly use "Good Morning" until 12:00 PM, Japanese greetings can be more flexible. In certain industries (like entertainment or hospitality), *Ohayou gozaimasu* is used as a "first greeting of the shift," regardless of the actual clock time. If you arrive at a restaurant for your shift at 2:00 PM, you still greet your coworkers with *Ohayou gozaimasu*.
+Wise USD or JPY is accepted. Email `sks7178@gmail.com` for the handle.
 
----
+### Option 3 - Korean Buyers
 
-## Summary Takeaway
+Toss, bank transfer, and KakaoPay are accepted at KRW 39,000. Open the [Buy Pack issue template](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) and set region to Korea.
 
-Use **Ohayou gozaimasu** for respect and professionalism, and shorten it to **Ohayou** only for those you are close with.
+## Refund Policy
+
+Full refund within 14 days if the ZIP files do not unzip, the Anki deck does not import to Anki 24.x, or there is a major factual error in vocabulary cards.
+
+No refund is offered for "I already knew this." The free samples are available so buyers can check the depth and style first.
+
+## Who This Is For
+
+- JLPT N5-N4 learners stuck on textbook formality
+- Anime and J-pop fans who want to understand dialogue and cultural phrasing
+- Self-learners using Anki for spaced repetition
+- Travelers preparing for Japan
+
+## Who This Is Not For
+
+- Advanced learners at N3+
+- People wanting full song lyric translations
+- People wanting audio recordings
+
+## Contact
+
+- GitHub: [@duct-tape2](https://github.com/duct-tape2)
+- Email: `sks7178@gmail.com`
+- Purchase support: [open a buy issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml)
