@@ -2,7 +2,7 @@
 
 > Learn Japanese the way fans actually consume it. Anime, J-pop, drama phrasebook for JLPT N5/N4 learners worldwide.
 
-3 free sample lessons + 50+ premium lessons + Anki deck for $29.
+3 free sample lessons + a free Anki sample deck + 50+ premium lessons + Anki deck for $29.
 
 ## Why This Pack
 
@@ -16,6 +16,10 @@ This pack breaks down real expressions from cultural contexts (without redistrib
 ## Free Samples (Public)
 
 Read these without paying anything:
+
+**Anki sample deck:**
+
+- [Download the free sample deck](samples/easy-japanese-sample.apkg) - 20 notes / 40 cards from the JLPT N5/N4 vocabulary pack
 
 **Basics (perfect if you're starting out):**
 

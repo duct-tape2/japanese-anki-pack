@@ -22,6 +22,8 @@ The paid pack includes 50+ lessons, an Anki deck, JLPT N5/N4 vocabulary CSV, and
 
 After payment, open a [GitHub issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new) with your PayPal transaction ID. ZIP delivery is within 5 min during JST/KST hours.
 
+[Download the free Anki sample deck](samples/easy-japanese-sample.apkg)
+
 ## The Core Phrase: おはようございます (Ohayou Gozaimasu)
 
 In Japanese, greeting someone in the morning is more than just a translation of "Good Morning." It is a social marker that indicates your relationship with the person you are speaking to.
