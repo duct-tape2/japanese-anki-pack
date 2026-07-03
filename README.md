@@ -77,7 +77,7 @@ All content is original commentary or fair-use educational reference. Buyer assu
 ## How To Buy
 
 ### Option 1 - PayPal (International) - $29 USD
-1. Send $29 USD to `sks7178@gmail.com` via PayPal
+1. Pay $29 USD via PayPal.Me: https://www.paypal.me/sks7178/29
 2. Open a [GitHub Issue with Buy template](https://github.com/duct-tape2/japanese-anki-pack/issues/new) - include your PayPal transaction ID
 3. Within 5 min (during JST/KST hours) you receive a download link with the full ZIP
 
