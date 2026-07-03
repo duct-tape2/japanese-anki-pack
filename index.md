@@ -13,7 +13,7 @@ Learn Japanese the way fans actually consume it: anime, J-pop, drama phrases, an
 
 [Buy now - PayPal $29](https://www.paypal.me/sks7178/29)
 
-After payment, open a [GitHub issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) with public-safe payment confirmation details. Do not post a full transaction ID. ZIP delivery is within 5 min during JST/KST hours.
+After payment, email `sks7178@gmail.com` with your PayPal display name or email prefix, payment time, and preferred delivery email. If you prefer GitHub, open a [buy issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) with public-safe details only. Do not post a full transaction ID. ZIP delivery is within 5 min during JST/KST hours.
 
 [Download the free Anki sample deck](samples/easy-japanese-sample.apkg)
 
@@ -81,9 +81,10 @@ It includes original grammar explanations, vocabulary breakdowns, cultural conte
 ### Option 1 - PayPal (International)
 
 1. Pay $29 USD via [PayPal.Me](https://www.paypal.me/sks7178/29).
-2. Open the [Buy Pack issue template](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) with payer name/email prefix plus payment time.
-3. Do not post the full PayPal transaction ID.
-4. Receive the ZIP download link within 5 min during JST/KST hours.
+2. Email `sks7178@gmail.com` with payer name/email prefix, payment time, and the email address where you want the ZIP delivered.
+3. If you prefer GitHub instead, open the [Buy Pack issue template](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) with public-safe details only.
+4. Do not post the full PayPal transaction ID.
+5. Receive the ZIP download link within 5 min during JST/KST hours.
 
 ### Option 2 - Wise
 
@@ -116,4 +117,4 @@ No refund is offered for "I already knew this." The free samples are available s
 
 - GitHub: [@duct-tape2](https://github.com/duct-tape2)
 - Email: `sks7178@gmail.com`
-- Purchase support: [open a buy issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml)
+- Purchase support: email `sks7178@gmail.com` or [open a buy issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml)

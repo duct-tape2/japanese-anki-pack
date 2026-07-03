@@ -82,14 +82,15 @@ All content is original commentary or fair-use educational reference. Buyer assu
 
 ### Option 1 - PayPal (International) - $29 USD
 1. Pay $29 USD via PayPal.Me: https://www.paypal.me/sks7178/29
-2. Open a [GitHub Issue with Buy template](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) with public-safe confirmation details, such as payer name/email prefix plus payment time. Do not post the full PayPal transaction ID.
-3. Within 5 min (during JST/KST hours) you receive a download link with the full ZIP
+2. Email `sks7178@gmail.com` with payer name/email prefix, payment time, and the email address where you want the ZIP delivered.
+3. If you prefer GitHub, open a [GitHub Issue with Buy template](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) with public-safe confirmation details only. Do not post the full PayPal transaction ID.
+4. Within 5 min (during JST/KST hours) you receive a download link with the full ZIP
 
 ### Option 2 - Wise
 - Wise: USD or JPY accepted, email `sks7178@gmail.com` for handle
 
 ### Option 3 - Korean Buyers (₩39,000)
-- Toss / 계좌이체 / 카카오페이 환영. [Buy issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml)를 열고 region: Korea 표시.
+- Toss / 계좌이체 / 카카오페이 환영. `sks7178@gmail.com`으로 region: Korea와 입금자명을 보내거나 [Buy issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml)를 열고 public-safe 정보만 남기세요.
 
 ## Refund Policy
 
@@ -117,7 +118,7 @@ No refunds for "I already knew this" - the free samples exist so you can check t
 
 - GitHub: [@duct-tape2](https://github.com/duct-tape2)
 - Email: `sks7178@gmail.com`
-- Issue template: open a new issue on this repo
+- Purchase support: email `sks7178@gmail.com` or open a new issue on this repo
 
 ---
 
