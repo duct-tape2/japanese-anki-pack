@@ -20,7 +20,7 @@ The paid pack includes 50+ lessons, an Anki deck, JLPT N5/N4 vocabulary CSV, and
 
 [Buy now - PayPal $29](https://www.paypal.me/sks7178/29)
 
-After payment, open a [GitHub issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new) with your PayPal transaction ID. ZIP delivery is within 5 min during JST/KST hours.
+After payment, open a [GitHub issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) with your PayPal transaction ID. ZIP delivery is within 5 min during JST/KST hours.
 
 [Download the free Anki sample deck](samples/easy-japanese-sample.apkg)
 

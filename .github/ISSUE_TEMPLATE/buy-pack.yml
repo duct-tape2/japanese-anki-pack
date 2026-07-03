@@ -1,0 +1,58 @@
+name: Buy Japanese Anki Pack
+description: Send payment confirmation for the Japanese Anki Pack
+title: "[BUY] Japanese Anki Pack - "
+labels: ["buyer-inquiry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for buying Japanese Anki Pack.
+
+        PayPal: https://www.paypal.me/sks7178/29
+
+        After payment, submit this issue with your transaction ID. ZIP delivery is within 5 minutes during JST/KST business hours.
+
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      options:
+        - Japanese Anki Pack - PayPal $29
+        - Japanese Anki Pack - Korea KRW 39,000
+    validations:
+      required: true
+
+  - type: input
+    id: payment_id
+    attributes:
+      label: Payment transaction ID or depositor name
+      description: For PayPal, paste the transaction ID. For Korean bank/Toss/KakaoPay, enter depositor name and payment time.
+      placeholder: "PayPal transaction ID / 입금자명 + 입금시각"
+    validations:
+      required: true
+
+  - type: input
+    id: delivery_email
+    attributes:
+      label: Delivery email
+      description: Where should the ZIP link be sent?
+      placeholder: "you@example.com"
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Optional notes, region, or delivery constraints
+      placeholder: "Optional"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirm
+      options:
+        - label: I understand the pack is delivered manually after payment confirmation within 5 min during JST/KST business hours.
+          required: true

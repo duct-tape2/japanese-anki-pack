@@ -82,7 +82,7 @@ All content is original commentary or fair-use educational reference. Buyer assu
 
 ### Option 1 - PayPal (International) - $29 USD
 1. Pay $29 USD via PayPal.Me: https://www.paypal.me/sks7178/29
-2. Open a [GitHub Issue with Buy template](https://github.com/duct-tape2/japanese-anki-pack/issues/new) - include your PayPal transaction ID
+2. Open a [GitHub Issue with Buy template](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) - include your PayPal transaction ID
 3. Within 5 min (during JST/KST hours) you receive a download link with the full ZIP
 
 ### Option 2 - Wise / Crypto
@@ -90,7 +90,7 @@ All content is original commentary or fair-use educational reference. Buyer assu
 - BTC / ETH: contact via GitHub Issue for current address
 
 ### Option 3 - Korean Buyers (₩39,000)
-- Toss / 계좌이체 / 카카오페이 환영. GitHub Issue 열고 region: Korea 표시.
+- Toss / 계좌이체 / 카카오페이 환영. [Buy issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml)를 열고 region: Korea 표시.
 
 ## Refund Policy
 
