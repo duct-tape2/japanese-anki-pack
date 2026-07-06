@@ -101,9 +101,11 @@ If you already have learning content in CSV, Markdown, Notion, Obsidian, or an e
 - simple GitHub Pages product or download page
 - README and delivery checklist
 
-Fixed intro price: **$99 USD** for one small deck/project.  
-Open a public-safe inquiry:
-https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
+Fixed intro price: **$99 USD** for one small deck/project.
+
+- Service page: https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/
+- Ready to book directly: https://www.paypal.me/sks7178/99
+- Open a public-safe inquiry: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
 
 For private learning content, email `sks7178@gmail.com` with the subject `Anki deck packaging`.
 
