@@ -10,6 +10,9 @@ body:
 
         PayPal: https://www.paypal.me/sks7178/49
 
+        Sample report format:
+        https://github.com/duct-tape2/japanese-anki-pack/blob/main/examples/anki-deck-review-sample.md
+
         After payment, email sks7178@gmail.com with the subject "anki deck review" and your delivery email. Do not post full transaction IDs, payment screenshots, copyrighted course files, private student data, private exports, passwords, API keys, or private URLs in this public issue.
 
         If you want implementation after the review, the next step is the $99 Anki Deck Packaging service:
