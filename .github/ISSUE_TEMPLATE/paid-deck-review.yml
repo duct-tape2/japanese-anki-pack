@@ -8,7 +8,9 @@ body:
       value: |
         $49 Anki Deck Review: I review one existing public-safe deck, CSV, or small learning-content sample and send a short written report with the top fixes for Anki readiness.
 
+        Direct checkout: https://duct-tape2.github.io/buy/
         PayPal: https://www.paypal.me/sks7178/49
+        Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 
         Sample report format:
         https://github.com/duct-tape2/japanese-anki-pack/blob/main/examples/anki-deck-review-sample.md
