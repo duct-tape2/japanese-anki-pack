@@ -92,6 +92,21 @@ All content is original commentary or fair-use educational reference. Buyer assu
 ### Option 3 - Korean Buyers (₩39,000)
 - Toss / 계좌이체 / 카카오페이 환영. `sks7178@gmail.com`으로 region: Korea와 입금자명을 보내거나 [Buy issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml)를 열고 public-safe 정보만 남기세요.
 
+## Need An Anki Deck Like This? ($99)
+
+If you already have learning content in CSV, Markdown, Notion, Obsidian, or an existing rough Anki deck, I can package it into:
+
+- clean `.apkg` import file
+- public-safe free sample deck
+- simple GitHub Pages product or download page
+- README and delivery checklist
+
+Fixed intro price: **$99 USD** for one small deck/project.  
+Open a public-safe inquiry:
+https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
+
+For private learning content, email `sks7178@gmail.com` with the subject `Anki deck packaging`.
+
 ## Refund Policy
 
 Full refund within 14 days if:

@@ -1,0 +1,64 @@
+name: Anki Deck Packaging Service Inquiry
+description: Request a $99 Anki deck packaging setup for your existing learning content
+title: "[SERVICE] Anki Deck Packaging - "
+labels: ["service-inquiry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in the $99 Anki deck packaging service.
+
+        This is for creators who already have learning content and want it packaged into a clean Anki `.apkg` plus a simple public sample/download flow.
+
+        Public issues are visible to everyone. Do not post private student data, paid course files, copyrighted text, credentials, payment details, or confidential business information. If you need privacy, email sks7178@gmail.com with the subject `Anki deck packaging`.
+
+  - type: input
+    id: content_source
+    attributes:
+      label: Content source
+      description: Public URL only. If private, write "private - emailed details" and send details by email.
+      placeholder: "Google Sheet / CSV / Markdown repo / Notion export / private - emailed details"
+    validations:
+      required: true
+
+  - type: textarea
+    id: learner
+    attributes:
+      label: Who is the learner?
+      description: Describe the intended learner in 1-3 sentences.
+      placeholder: "Example: JLPT N5 learners who need travel vocabulary review cards."
+    validations:
+      required: true
+
+  - type: input
+    id: card_count
+    attributes:
+      label: Approximate card count
+      placeholder: "50 / 100 / 300 notes"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: source_format
+    attributes:
+      label: Current source format
+      options:
+        - CSV / spreadsheet
+        - Markdown files
+        - Existing Anki deck cleanup
+        - Notion / Obsidian export
+        - Not decided yet
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Scope confirmation
+      options:
+        - label: I understand this setup packages existing content and does not include guaranteed sales, account creation, KYC, tax/payment setup, or cold outreach.
+          required: true
+        - label: I have the rights to use the learning content, examples, and media I provide.
+          required: true
+        - label: This request does not include copyrighted lyrics, subtitles, manga panels, paid course dumps, or private student data.
+          required: true
