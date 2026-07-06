@@ -114,6 +114,7 @@ For private learning content, email `sks7178@gmail.com` with the subject `Anki d
 
 If you already have a deck, CSV, or small sample and want written feedback before booking the full setup, use the $49 Anki Deck Review.
 
+- Details: https://duct-tape2.github.io/anki-deck-review/
 - PayPal: https://www.paypal.me/sks7178/49
 - Paid review request: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
 - Sample report: [examples/anki-deck-review-sample.md](examples/anki-deck-review-sample.md)
