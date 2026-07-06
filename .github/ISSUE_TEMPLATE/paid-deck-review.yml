@@ -1,0 +1,60 @@
+name: Paid Anki Deck Review
+description: Start a public-safe $49 review for an existing Anki deck or learning content.
+title: "[DECK REVIEW] "
+labels: ["deck-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        $49 Anki Deck Review: I review one existing public-safe deck, CSV, or small learning-content sample and send a short written report with the top fixes for Anki readiness.
+
+        PayPal: https://www.paypal.me/sks7178/49
+
+        After payment, email sks7178@gmail.com with the subject "anki deck review" and your delivery email. Do not post full transaction IDs, payment screenshots, copyrighted course files, private student data, private exports, passwords, API keys, or private URLs in this public issue.
+
+        If you want implementation after the review, the next step is the $99 Anki Deck Packaging service:
+        https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/
+  - type: input
+    id: public-source
+    attributes:
+      label: Public deck or content URL
+      description: Share one public URL only. If private, email before payment.
+      placeholder: https://github.com/yourname/yourdeck or public CSV/sample page
+    validations:
+      required: true
+  - type: dropdown
+    id: payment-status
+    attributes:
+      label: Payment status
+      options:
+        - Asking before payment
+        - Paid $49 and emailed private confirmation
+        - Need a different checkout link
+    validations:
+      required: true
+  - type: textarea
+    id: review-focus
+    attributes:
+      label: What should I focus on?
+      description: Keep this public-safe. Do not include copyrighted source text or private learner data.
+      placeholder: Card structure, field names, tags, import errors, sample deck quality, note count, review flow, or packaging plan.
+    validations:
+      required: true
+  - type: input
+    id: approximate-size
+    attributes:
+      label: Approximate size
+      placeholder: 50 notes / 200 cards / 1 CSV / small sample
+    validations:
+      required: false
+  - type: dropdown
+    id: next-step-interest
+    attributes:
+      label: Possible next step
+      options:
+        - Review only
+        - I may buy the $29 Japanese pack
+        - I may book the $99 packaging service after the review
+        - Not sure yet
+    validations:
+      required: true

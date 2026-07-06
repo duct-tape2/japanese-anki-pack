@@ -110,6 +110,15 @@ Fixed intro price: **$99 USD** for one small deck/project.
 
 For private learning content, email `sks7178@gmail.com` with the subject `Anki deck packaging`.
 
+## Want A Smaller First Step? ($49 Review)
+
+If you already have a deck, CSV, or small sample and want written feedback before booking the full setup, use the $49 Anki Deck Review.
+
+- PayPal: https://www.paypal.me/sks7178/49
+- Paid review request: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
+- Scope: one public-safe deck, CSV, or sample; short written report; top Anki readiness fixes; no copyrighted course dumps or private learner data in public issues.
+- Delivery: email report after payment confirmation.
+
 ## Refund Policy
 
 Full refund within 14 days if:
