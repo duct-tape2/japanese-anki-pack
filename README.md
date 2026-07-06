@@ -22,6 +22,7 @@ Read these without paying anything:
 
 **Anki sample deck:**
 
+- [Preview the sample card fields before downloading](https://duct-tape2.github.io/examples/japanese-anki-sample-deck/) - see the prompt/answer/context structure in the browser
 - [Download the free sample deck](samples/easy-japanese-sample.apkg) - 20 notes / 40 cards from the JLPT N5/N4 vocabulary pack
 - [Read the free Anki deck packaging guide](https://duct-tape2.github.io/guides/anki-deck-packaging/) - how to turn CSV, Markdown, or rough notes into a clean deck package
 
