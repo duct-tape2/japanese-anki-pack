@@ -4,6 +4,9 @@
 
 6 free sample lessons + a free Anki sample deck + 28 premium lesson topics in EN/ES/VI + a 402-note Anki deck for $29.
 
+Direct checkout for this pack and all current offers:
+https://duct-tape2.github.io/buy/
+
 ## Why This Pack
 
 Most Japanese textbooks teach office formalities. But fans of anime, J-pop, and J-drama want to understand:
