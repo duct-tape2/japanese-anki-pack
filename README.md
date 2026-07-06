@@ -23,6 +23,7 @@ Read these without paying anything:
 **Anki sample deck:**
 
 - [Download the free sample deck](samples/easy-japanese-sample.apkg) - 20 notes / 40 cards from the JLPT N5/N4 vocabulary pack
+- [Read the free Anki deck packaging guide](https://duct-tape2.github.io/guides/anki-deck-packaging/) - how to turn CSV, Markdown, or rough notes into a clean deck package
 
 **Basics (perfect if you're starting out):**
 
@@ -107,6 +108,7 @@ If you already have learning content in CSV, Markdown, Notion, Obsidian, or an e
 Fixed intro price: **$99 USD** for one small deck/project.
 
 - Service page: https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/
+- Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 - Ready to book directly: https://www.paypal.me/sks7178/99
 - Open a public-safe inquiry: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
 - Booking terms: refund if I cannot deliver the scoped deck package; one small correction pass within 7 days after delivery.
@@ -118,6 +120,7 @@ For private learning content, email `sks7178@gmail.com` with the subject `Anki d
 If you already have a deck, CSV, or small sample and want written feedback before booking the full setup, use the $49 Anki Deck Review.
 
 - Details: https://duct-tape2.github.io/anki-deck-review/
+- Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 - PayPal: https://www.paypal.me/sks7178/49
 - Paid review request: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
 - Sample report: [examples/anki-deck-review-sample.md](examples/anki-deck-review-sample.md)
