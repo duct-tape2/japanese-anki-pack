@@ -7,6 +7,9 @@
 Direct checkout for this pack and all current offers:
 https://duct-tape2.github.io/buy/
 
+If the free lessons or sample deck helped and you do not need the full pack yet, a $5 thank-you tip is here:
+https://www.paypal.me/sks7178/5
+
 ## Why This Pack
 
 Most Japanese textbooks teach office formalities. But fans of anime, J-pop, and J-drama want to understand:
