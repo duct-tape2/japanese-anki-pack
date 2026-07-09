@@ -18,14 +18,17 @@ DOCS_OUT_PATH = Path(__file__).parent / "docs" / "samples" / "easy-japanese-samp
 FULL_PACK_URL = "https://www.paypal.me/sks7178/29"
 LANDING_URL = "https://duct-tape2.github.io/japanese-anki-pack/"
 TIP_URL = "https://www.paypal.me/sks7178/5"
+ANKI_BUILDER_URL = "https://duct-tape2.github.io/anki-deck-builder-kit/"
 ANKI_PACKAGING_URL = "https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/"
 NEXT_STEPS_HTML = (
     'Next: <a href="{landing}">sample page</a> | '
+    '<a href="{builder}">$19 builder kit</a> | '
     '<a href="{full}">$29 full pack</a> | '
     '<a href="{tip}">$5 tip</a> | '
     '<a href="{packaging}">deck packaging help</a>'
 ).format(
     landing=LANDING_URL,
+    builder=ANKI_BUILDER_URL,
     full=FULL_PACK_URL,
     tip=TIP_URL,
     packaging=ANKI_PACKAGING_URL,

@@ -28,6 +28,7 @@ Read these without paying anything:
 - [Preview the sample card fields before downloading](https://duct-tape2.github.io/examples/japanese-anki-sample-deck/) - see the prompt/answer/context structure in the browser
 - [Download the free sample deck](samples/easy-japanese-sample.apkg) - 20 notes / 40 cards from the JLPT N5/N4 vocabulary pack
 - [Read the free Anki deck packaging guide](https://duct-tape2.github.io/guides/anki-deck-packaging/) - how to turn CSV, Markdown, or rough notes into a clean deck package
+- [Build your own deck with the $19 Anki Deck Builder Kit](https://duct-tape2.github.io/anki-deck-builder-kit/) - CSV template, APKG builder, sample deck, launch checklist, and listing copy
 
 **Basics (perfect if you're starting out):**
 
@@ -101,6 +102,9 @@ All content is original commentary or fair-use educational reference. Buyer assu
 - Toss / 계좌이체 / 카카오페이 환영. `sks7178@gmail.com`으로 region: Korea와 입금자명을 보내거나 [Buy issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml)를 열고 public-safe 정보만 남기세요.
 
 ## Need An Anki Deck Like This? ($99)
+
+If you want to build it yourself first, use the **$19 Anki Deck Builder Kit**:
+https://duct-tape2.github.io/anki-deck-builder-kit/
 
 If you already have learning content in CSV, Markdown, Notion, Obsidian, or an existing rough Anki deck, I can package it into:
 
