@@ -132,7 +132,7 @@ If you already have a deck, CSV, or small sample and want written feedback befor
 - Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 - PayPal: https://www.paypal.me/sks7178/49
 - Paid review request: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
-- Sample report: [examples/anki-deck-review-sample.md](examples/anki-deck-review-sample.md)
+- Sample report: https://duct-tape2.github.io/examples/anki-deck-review-sample/
 - Scope: one public-safe deck, CSV, or sample; short written report; top Anki readiness fixes; no copyrighted course dumps or private learner data in public issues.
 - Delivery: email report after payment confirmation.
 
