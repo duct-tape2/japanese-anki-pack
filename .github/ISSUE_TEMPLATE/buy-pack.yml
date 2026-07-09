@@ -14,6 +14,8 @@ body:
 
         Use this public issue only if you are comfortable posting public-safe confirmation details. Do not post full transaction IDs in a public issue. ZIP delivery is within 5 minutes during JST/KST business hours.
 
+        Refund/support: 14-day refund if the delivered ZIP cannot be opened, the Anki deck cannot be imported into Anki 24.x, or a listed deliverable is missing. Use email for private payment or delivery details.
+
   - type: dropdown
     id: product
     attributes:
@@ -57,4 +59,6 @@ body:
       label: Confirm
       options:
         - label: I understand the pack is delivered manually after payment confirmation within 5 min during JST/KST business hours.
+          required: true
+        - label: I understand support/refund requests should be sent by email if they include private payment or delivery details.
           required: true
