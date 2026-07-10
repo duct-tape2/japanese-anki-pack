@@ -121,7 +121,7 @@ Fixed intro price: **$99 USD** for one small deck/project.
 
 - Service page: https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/
 - Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
-- Ready to book directly: https://www.paypal.me/sks7178/99
+- Ready to book directly: https://payhip.com/b/lytaz
 - Open a public-safe inquiry: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
 - Booking terms: refund if I cannot deliver the scoped deck package; one small correction pass within 7 days after delivery.
 
