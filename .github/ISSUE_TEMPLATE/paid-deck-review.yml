@@ -8,14 +8,14 @@ body:
       value: |
         $49 Anki Deck Review: I review one existing public-safe deck, CSV, or small learning-content sample and send a short written report with the top fixes for Anki readiness.
 
-        Direct checkout: https://duct-tape2.github.io/buy/
-        PayPal: https://www.paypal.me/sks7178/49
+        Review details: https://duct-tape2.github.io/anki-deck-review/
+        Payment follows scope confirmation.
         Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
 
         Sample report format:
         https://duct-tape2.github.io/examples/anki-deck-review-sample/
 
-        After payment, email sks7178@gmail.com with the subject "anki deck review" and your delivery email. Do not post full transaction IDs, payment screenshots, copyrighted course files, private student data, private exports, passwords, API keys, or private URLs in this public issue.
+        Submit this public-safe request before payment. Scope is confirmed first; copyrighted course files, private student data, private exports, passwords, API keys, payment records, and private URLs must not be posted here.
 
         Refund/support: 14-day refund if the written report is not delivered, cannot be opened, or does not cover the paid public-safe deck/content URL. Use email for private payment or delivery details.
 
@@ -25,7 +25,7 @@ body:
     id: public-source
     attributes:
       label: Public deck or content URL
-      description: Share one public URL only. If private, email before payment.
+      description: Share one public URL only. If private, email before scope confirmation.
       placeholder: https://github.com/yourname/yourdeck or public CSV/sample page
     validations:
       required: true

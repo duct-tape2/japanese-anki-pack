@@ -11,9 +11,9 @@ Learn Japanese the way fans actually consume it: anime, J-pop, drama phrases, an
 
 **Paid pack:** 84 lesson files, a 402-note / 804-card Anki deck, JLPT vocabulary CSVs, and a printable PDF for **$29 USD**.
 
-[Buy now - PayPal $29](https://www.paypal.me/sks7178/29)
+[Buy now - Instant Download $29](https://payhip.com/b/D0mhb)
 
-After payment, email `sks7178@gmail.com` with your PayPal display name or email prefix, payment time, and preferred delivery email. If you prefer GitHub, open a [buy issue](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) with public-safe details only. Do not post a full transaction ID. ZIP delivery is within 5 min during JST/KST hours.
+Payhip delivers the ZIP automatically after checkout. Keep the receipt email for support or refunds. If checkout fails, email `sks7178@gmail.com`; do not post payment records in a public GitHub issue.
 
 [Download the free Anki sample deck](samples/easy-japanese-sample.apkg)
 
@@ -78,11 +78,11 @@ It includes original grammar explanations, vocabulary breakdowns, cultural conte
 
 ## How To Buy
 
-### Option 1 - PayPal (International)
+### Option 1 - Instant Download Store
 
-1. Pay $29 USD via [PayPal.Me](https://www.paypal.me/sks7178/29).
-2. Email `sks7178@gmail.com` with payer name/email prefix, payment time, and the email address where you want the ZIP delivered.
-3. If you prefer GitHub instead, open the [Buy Pack issue template](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) with public-safe details only.
+1. Buy the $29 pack on [Payhip](https://payhip.com/b/D0mhb).
+2. Download the ZIP from the automatic delivery page or receipt email.
+3. Use the [Buy Pack issue template](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) only for public-safe support questions.
 4. Do not post the full PayPal transaction ID.
 5. Receive the ZIP download link within 5 min during JST/KST hours.
 

@@ -1,5 +1,5 @@
-name: Buy Japanese Anki Pack
-description: Send payment confirmation for the Japanese Anki Pack
+name: Japanese Anki Pack Buyer Help
+description: Ask for public-safe Payhip checkout or delivery support
 title: "[BUY] Japanese Anki Pack - "
 labels: ["buyer-inquiry"]
 body:
@@ -8,11 +8,11 @@ body:
       value: |
         Thanks for buying Japanese Anki Pack.
 
-        PayPal: https://www.paypal.me/sks7178/29
+        Payhip instant checkout: https://payhip.com/b/D0mhb
 
-        For the private path, email sks7178@gmail.com with payer name/email prefix, payment time, and delivery email.
+        Payhip delivers the ZIP automatically. Email sks7178@gmail.com only if checkout or delivery fails.
 
-        Use this public issue only if you are comfortable posting public-safe confirmation details. Do not post full transaction IDs in a public issue. ZIP delivery is within 5 minutes during JST/KST business hours.
+        Use this public issue only for public-safe support details. Do not post receipt numbers, screenshots, email addresses, or other payment records.
 
         Refund/support: 14-day refund if the delivered ZIP cannot be opened, the Anki deck cannot be imported into Anki 24.x, or a listed deliverable is missing. Use email for private payment or delivery details.
 
@@ -21,26 +21,25 @@ body:
     attributes:
       label: Product
       options:
-        - Japanese Anki Pack - PayPal $29
-        - Japanese Anki Pack - Korea KRW 39,000
+        - Japanese Anki Pack - Payhip $29
     validations:
       required: true
 
   - type: input
     id: payment_id
     attributes:
-      label: Public-safe payment confirmation
-      description: For PayPal, enter payer name or email prefix plus approximate payment time. For Korean bank/Toss/KakaoPay, enter depositor name and payment time. If you emailed privately, write "email sent" plus payment time. Do not post full transaction IDs.
-      placeholder: "PayPal payer name/email prefix + time / email sent + time / 입금자명 + 입금시각"
+      label: Public-safe problem summary
+      description: Describe the Payhip checkout or delivery problem without posting receipt numbers, screenshots, or payment records. Write "no problem" for a pre-purchase question.
+      placeholder: "Checkout did not complete / delivery email did not arrive / deck will not import"
     validations:
       required: true
 
   - type: input
     id: delivery_email
     attributes:
-      label: Delivery contact
-      description: GitHub issues are public. Enter an email you are comfortable posting publicly, or write "sent by email" if you emailed delivery details to sks7178@gmail.com.
-      placeholder: "you@example.com / sent by email"
+      label: Private support email sent?
+      description: GitHub issues are public. Write "sent" if you emailed support details to sks7178@gmail.com; do not post your email address here.
+      placeholder: "sent / not needed"
     validations:
       required: true
 
@@ -58,7 +57,7 @@ body:
     attributes:
       label: Confirm
       options:
-        - label: I understand the pack is delivered manually after payment confirmation within 5 min during JST/KST business hours.
+        - label: I understand Payhip delivers the ZIP automatically after checkout.
           required: true
         - label: I understand support/refund requests should be sent by email if they include private payment or delivery details.
           required: true

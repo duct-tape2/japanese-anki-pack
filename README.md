@@ -11,7 +11,7 @@ Not sure what to buy? Use the offer chooser:
 https://duct-tape2.github.io/tools/offer-chooser/
 
 If the free lessons or sample deck helped and you do not need the full pack yet, a $5 thank-you tip is here:
-https://www.paypal.me/sks7178/5
+https://payhip.com/b/0LKEF
 
 ## Why This Pack
 
@@ -93,11 +93,11 @@ All content is original commentary or fair-use educational reference. Buyer assu
 
 ## How To Buy
 
-### Option 1 - PayPal (International) - $29 USD
-1. Pay $29 USD via PayPal.Me: https://www.paypal.me/sks7178/29
-2. Email `sks7178@gmail.com` with payer name/email prefix, payment time, and the email address where you want the ZIP delivered.
-3. If you prefer GitHub, open a [GitHub Issue with Buy template](https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=buy-pack.yml) with public-safe confirmation details only. Do not post the full PayPal transaction ID.
-4. Within 5 min (during JST/KST hours) you receive a download link with the full ZIP
+### Option 1 - Instant Download Store - $29 USD
+1. Buy via instant download: https://payhip.com/b/D0mhb
+2. The storefront delivers the ZIP automatically after checkout.
+3. Keep the receipt email in case you need support or a refund.
+4. If checkout fails, email `sks7178@gmail.com` for support without posting payment records publicly.
 
 ### Option 2 - Wise
 - Wise: USD or JPY accepted, email `sks7178@gmail.com` for handle
@@ -133,7 +133,7 @@ If you already have a deck, CSV, or small sample and want written feedback befor
 
 - Details: https://duct-tape2.github.io/anki-deck-review/
 - Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
-- PayPal: https://www.paypal.me/sks7178/49
+- Request first: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
 - Paid review request: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=paid-deck-review.yml
 - Sample report: https://duct-tape2.github.io/examples/anki-deck-review-sample/
 - Scope: one public-safe deck, CSV, or sample; short written report; top Anki readiness fixes; no copyrighted course dumps or private learner data in public issues.

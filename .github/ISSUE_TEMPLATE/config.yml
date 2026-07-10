@@ -9,6 +9,6 @@ contact_links:
   - name: Private Anki deck packaging inquiry
     url: mailto:sks7178@gmail.com?subject=Anki%20deck%20packaging
     about: Use email if the content source or business details are private
-  - name: Pay $49 Anki deck review
-    url: https://www.paypal.me/sks7178/49
-    about: Pay first, then open a paid deck review request with public-safe details only.
+  - name: Request $49 Anki deck review
+    url: https://duct-tape2.github.io/anki-deck-review/
+    about: Review the scope and open a public-safe request before payment.
