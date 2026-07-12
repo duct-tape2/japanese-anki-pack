@@ -4,14 +4,16 @@
 
 6 free sample lessons + a free Anki sample deck + 28 premium lesson topics in EN/ES/VI + a 402-note Anki deck for $29.
 
-Direct checkout for this pack and all current offers:
+Offer and checkout status for this pack and all current offers:
 https://duct-tape2.github.io/buy/
 
 Not sure what to buy? Use the offer chooser:
 https://duct-tape2.github.io/tools/offer-chooser/
 
-If the free lessons or sample deck helped and you do not need the full pack yet, a $5 thank-you tip is here:
-https://payhip.com/b/0LKEF
+If the free lessons or sample deck helped and you want to leave a $5 thank-you tip, confirm a working checkout first:
+https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
+
+Payment acceptance is temporarily paused while payout settings are restored. Do not pay through an old link; use the inquiry above to confirm a working checkout first.
 
 ## Why This Pack
 
@@ -93,9 +95,9 @@ All content is original commentary or fair-use educational reference. Buyer assu
 
 ## How To Buy
 
-### Option 1 - Instant Download Store - $29 USD
-1. Buy via instant download: https://payhip.com/b/D0mhb
-2. The storefront delivers the ZIP automatically after checkout.
+### Option 1 - Confirmed Storefront Checkout - $29 USD
+1. Request a confirmed working checkout: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
+2. After confirmed payment, the active storefront delivers the ZIP automatically.
 3. Keep the receipt email in case you need support or a refund.
 4. If checkout fails, email `sks7178@gmail.com` for support without posting payment records publicly.
 
@@ -121,7 +123,7 @@ Fixed intro price: **$99 USD** for one small deck/project.
 
 - Service page: https://duct-tape2.github.io/japanese-anki-pack/anki-deck-packaging/
 - Free packaging guide: https://duct-tape2.github.io/guides/anki-deck-packaging/
-- Ready to book directly: https://payhip.com/b/lytaz
+- Confirm scope and a working checkout: https://github.com/duct-tape2/duct-tape2/issues/new?template=paid-inquiry.yml
 - Open a public-safe inquiry: https://github.com/duct-tape2/japanese-anki-pack/issues/new?template=anki-deck-packaging-service.yml
 - Booking terms: refund if I cannot deliver the scoped deck package; one small correction pass within 7 days after delivery.
 
